@@ -56,3 +56,5 @@
 - Позитивные и негативные сценарии
 🔗 [Посмотреть репозиторий](https://github.com/Pepe1322/api_testing)
 
+### 📜 Сертификат
+[Stepik — сертификат](https://drive.google.com/file/d/1gWLCZvoLa1Duu32FgzyHSbXYeylsPFDg/view?usp=sharing)
