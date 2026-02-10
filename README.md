@@ -19,6 +19,8 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" width="24" height="24" alt="Jira"> **Jira** &nbsp;&nbsp;  
 <img src="https://camo.githubusercontent.com/a779887f1ae33ce0c4c3fe1644037de648692b2e7404b4532d255bd7e2a921a8/68747470733a2f2f636f6461686f737465642e696f2f7061636b732f32313233362f756e76657273696f6e65642f6173736574732f4c4f474f2f6261313039316335396261623839636432666430663238393632323733316665313631313364376230303930356162653634373539633331336134623733623736633162303432363037366564373663623734373532323334633733343133316466343639393264356238623438666331336532363432343065346637313139663733366366656236346466333664656435346235636266363139386239636164656466313864643063616335633764626364313665363333366332393336336364313239326261" width="24" height="24" alt="TestRail"> **TestRail** &nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Test_IT_logo.png" height="24" alt="Test IT"> **Test IT** &nbsp;&nbsp;
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="24" height="24" alt="Figma"> **Figma** &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="24" height="24" alt="Chrome DevTools"> **Chrome DevTools** &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="24" height="24" alt="Postman"> **Postman** &nbsp;&nbsp;
